@@ -1,6 +1,12 @@
 # Senior Project
+
 # Air Traffic Data Analysis for Airspace Complexity Assessment
-## Abstract
+
+<div align="center">
+    <a><img width="55%"  src="https://samchui.com/wp-content/uploads/2020/01/Amsterdam_AIR_Traffic_Control_51-759x500.jpg"></a>
+</div>
+
+## 🔭Abstract
 In the present, air transportation is an essential form of transportation and it’s also one of the most
 important factors in developing country’s competitive advantage. Airspace system and Air Traffic
 Management (ATM) are keys to provide an efficient and safe air traffic services in Thailand. Growing
@@ -18,7 +24,7 @@ airspace into sectors to reduce complexity, comparing which airspace is more com
 a new airspace can be designed to reduce complexity and new airspace design can use complexity
 values to assess whether the design is effective.
 
-## Objectives
+## 🔭Objectives
 
 ⚡To explain the complexity of air traffic.
 
@@ -26,7 +32,7 @@ values to assess whether the design is effective.
 
 ⚡To plot the complexity values from the different indicators in each period and compare the complexity values obtained in each indicator.
 
-## Scopes
+## 🔭Scopes
 
 ⚡Study the complexity of the airspace in Thailand.
 
@@ -34,7 +40,7 @@ values to assess whether the design is effective.
 
 ⚡Study the complexity of the airspace in the En-route airspace.
 
-## Theory
+## 🔭Theory
 
 ⚡Hourly Entry Count
 
